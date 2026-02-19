@@ -2,3 +2,5 @@ streamlit
 nltk
 langdetect
 scikit-learn
+deep_translator
+
