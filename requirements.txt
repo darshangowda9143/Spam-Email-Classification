@@ -4,4 +4,5 @@ langdetect
 scikit-learn
 deep_translator
 matplotlib
+seaborn
 
